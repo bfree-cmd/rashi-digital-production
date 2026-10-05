@@ -1,0 +1,27 @@
+{
+  "name": "Rashi Digital",
+  "short_name": "Rashi Digital",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#07110C",
+  "theme_color": "#0A0F0C",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

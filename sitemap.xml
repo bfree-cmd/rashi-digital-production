@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+  <loc>https://rashi.digital/</loc>
+  <lastmod>2026-10-01</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/"/>
+</url>
+<url>
+  <loc>https://rashi.digital/he/</loc>
+  <lastmod>2026-10-01</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/"/>
+</url>
+<url>
+  <loc>https://rashi.digital/services</loc>
+  <lastmod>2026-09-28</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/services"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/services"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/services"/>
+</url>
+<url>
+  <loc>https://rashi.digital/he/services</loc>
+  <lastmod>2026-10-01</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/services"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/services"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/services"/>
+</url>
+<url>
+  <loc>https://rashi.digital/work.html</loc>
+  <lastmod>2026-09-28</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/work.html"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/work.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/work.html"/>
+</url>
+<url>
+  <loc>https://rashi.digital/he/work.html</loc>
+  <lastmod>2026-09-28</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/work.html"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/work.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/work.html"/>
+</url>
+<url>
+  <loc>https://rashi.digital/about.html</loc>
+  <lastmod>2026-09-29</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/about.html"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/about.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/about.html"/>
+</url>
+<url>
+  <loc>https://rashi.digital/he/about.html</loc>
+  <lastmod>2026-09-29</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rashi.digital/about.html"/>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/about.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rashi.digital/about.html"/>
+</url>
+
+<url>
+  <loc>https://rashi.digital/he/free-marketing-review</loc>
+  <lastmod>2026-10-01</lastmod>
+  <xhtml:link rel="alternate" hreflang="he" href="https://rashi.digital/he/free-marketing-review"/>
+</url>
+</urlset>
