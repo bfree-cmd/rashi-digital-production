@@ -2030,3 +2030,6 @@ html[dir="rtl"] .sd-v2 .sdv2-price{align-items:flex-start}
   .review-final-card h2{font-size:32px}
   .review-final-card p{font-size:16px}
 }
+
+/* Keep the approved copyright line outside the mobile footer accordions. */
+.footer-copyright{margin:28px 0 0;font-size:12px;line-height:1.6;color:#8FA69A}
