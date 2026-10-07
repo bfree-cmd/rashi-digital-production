@@ -456,7 +456,7 @@ input,textarea,select{font:inherit}
 
 /* ---------- page hero (work / services) ---------- */
 .page-hero{
-  color:#fff;padding:64px 0 56px;position:relative;overflow:hidden;
+  color:#fff;padding:32px 0 56px;position:relative;overflow:hidden;
   background:
     radial-gradient(ellipse 700px 420px at 85% 0%,rgba(49,224,123,.14),transparent 55%),
     linear-gradient(160deg,#070C09,#0C1712);
@@ -1012,7 +1012,7 @@ input,textarea,select{font:inherit}
   .contact-map iframe{height:260px}
   .hub-panel{padding:20px}
   .viz-ab{gap:6px;padding:10px}
-  .page-hero{padding:44px 0 40px}
+  .page-hero{padding:24px 0 40px}
   .footer{padding-bottom:90px}
 }
 @media(max-width:400px){
