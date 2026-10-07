@@ -2037,3 +2037,50 @@ html[dir="rtl"] .sd-v2 .sdv2-price{align-items:flex-start}
 
 /* Keep the approved copyright line outside the mobile footer accordions. */
 .footer-copyright{margin:28px 0 0;font-size:12px;line-height:1.6;color:#8FA69A}
+
+/* Compact vertical rhythm: less empty space between sections on every page */
+.section{padding:64px 0}
+.section-tight{padding:44px 0}
+.section-head{margin-bottom:28px}
+.hero{padding-top:36px}
+.hero-grid{padding-bottom:44px}
+.page-hero{padding-bottom:40px}
+.sd{padding:52px 0}
+.rmap{margin-bottom:36px}
+.legal{padding:36px 0 56px}
+.footer{padding-top:40px}
+.review-page .section{padding:48px 0}
+.review-hero{padding:40px 0}
+.review-final{padding-bottom:40px!important}
+@media(min-width:901px){
+  .services-detail-section>.wrap .sd{padding-top:40px;padding-bottom:40px}
+  #experience.section{padding-top:56px;padding-bottom:56px}
+  .founder-intro.section{padding-block:36px}
+  .about-hero{padding:40px 0 32px}
+  .about-direct.section{padding-block:52px}
+  .about-final.section{padding-block:48px}
+}
+@media(max-width:900px){
+  .sd{padding:40px 0}
+  .services-detail-section>.wrap .sd{padding-top:32px;padding-bottom:32px}
+  .founder-intro.section{padding-top:32px;padding-bottom:36px}
+  .about-hero{padding:32px 0 28px}
+  .about-direct.section{padding-top:44px;padding-bottom:44px}
+  .about-final.section{padding-block:44px}
+}
+@media(max-width:700px){
+  .founder-intro.section{padding:28px 0 32px}
+  .about-hero{padding:28px 0 24px}
+  .about-direct.section{padding:36px 0}
+}
+@media(max-width:620px){
+  .section{padding:44px 0}
+  .section-tight{padding:32px 0}
+  .hero{padding-top:24px}
+  .hero-grid{padding-bottom:32px}
+  .page-hero{padding-bottom:32px}
+  .review-page .section{padding:36px 0}
+  .review-hero{padding:32px 0 30px}
+  .review-final{padding-bottom:32px!important}
+  .legal{padding:28px 0 44px}
+}
