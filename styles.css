@@ -406,6 +406,8 @@ input,textarea,select{font:inherit}
 .contact-side{background:var(--ink);color:#fff;border-radius:var(--radius-l);padding:34px;display:flex;flex-direction:column;justify-content:space-between}
 .contact-side p{font-size:12.5px;color:#A9C0B4;line-height:1.7;margin:14px 0 20px}
 .contact-side .num{margin-top:18px;font-size:12px;color:#93A89C}
+.contact-map{width:100%;margin-top:34px;border-radius:var(--radius-l);overflow:hidden}
+.contact-map iframe{display:block;width:100%;height:320px;border:0}
 .form-note{font-size:10.5px;color:var(--muted);margin-top:10px}
 
 /* ---------- footer ---------- */
@@ -1006,6 +1008,8 @@ input,textarea,select{font:inherit}
   .cta-band .btn{width:100%;justify-content:center}
   .field-row{grid-template-columns:1fr}
   .form-card,.contact-side{padding:24px}
+  .contact-map{margin-top:24px}
+  .contact-map iframe{height:260px}
   .hub-panel{padding:20px}
   .viz-ab{gap:6px;padding:10px}
   .page-hero{padding:44px 0 40px}
