@@ -5,5 +5,7 @@
 /he/services.html  /he/services  301!
 /he/free-marketing-review.html  /he/free-marketing-review  301!
 
+/home/  /  301!
+
 # Hebrew visitors to a missing /he/ URL get the Hebrew 404 page (Netlify serves /404.html for everything else).
 /he/*  /he/404.html  404
